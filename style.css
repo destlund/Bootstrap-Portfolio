@@ -36,8 +36,6 @@
 }
 .sidebarimg {
 	margin-bottom: 10px;
-	width: 95%;
-	height: auto;
 }
 
 .nav>li {
@@ -72,6 +70,8 @@ footer {
 }
 body {
 	padding-bottom: 64px;
+	background: url("../images/concrete_seamless.png") repeat !important;
+	background-color: #F5F5F5 !important;
 }
 .portfolio-header {
 	/*position: fixed;*/
@@ -93,9 +93,9 @@ body {
 	padding: 10px 10px 20px 10px;
 }
 
-html, body {
-	background: url("../images/concrete_seamless.png") repeat;
-	background-color: lightgrey;
+#teal-button {
+	background-color: #4aaaa5;
+	border: none;
 }
 /*#wrapper {
 	width: 95%;
