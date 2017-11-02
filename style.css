@@ -1,0 +1,99 @@
+.navbar-brand {
+  background: #4aaaa5;
+}
+
+.logotext {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+.mainpaneltext {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-weight: 700;
+ 	color: #4aaaa5;
+	border-bottom: solid lightgray 1px;
+	margin-left: 10px;
+}
+.sidepaneltext {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-weight: 700;
+	color: #4aaaa5;
+	border-bottom: solid lightgray 1px;
+}
+.panel-default {
+	padding: 0 10px;
+}
+
+.container-fluid {
+	width: 95%;
+}
+.bodytext {
+	/*float: left;*/
+	margin-left: 20px;
+}
+.sidebarimg {
+	margin-bottom: 10px;
+}
+
+.nav>li {
+    border-left: solid lightgray 1px;
+}
+.nav>li:first-child {
+	border: none;
+}
+.panel-default {
+	overflow: auto;
+}
+#content {
+	width: 95%;
+	margin: 0 auto 65px;
+}
+footer {
+	text-align: center;
+	width: 100%;
+    background-color: #4aaaa5;
+    padding-top: 20px;
+    border-top: solid gray 4px;
+    position: fixed;
+    bottom: 0;
+    margin-top: 64px;
+}
+.footertext {
+	color: #fff;
+}
+.profile-body {
+	margin: 0 10px;
+	float: left;
+}
+body {
+	padding-bottom: 64px;
+	width: 95%;
+	margin: 0 auto;
+}
+.portfolio-header {
+	/*position: fixed;*/
+	/*bottom: 20;*/
+	text-align: center;
+	color: #4aaaa5;
+	/*background-color: #4aaaa5;*/
+}
+.portfolio-image {
+	position:relative;
+	width: 95%;
+	height: auto;
+}
+.pull-left {
+	padding-right: 10px;
+}
+.panel {
+	margin: 10px;
+	padding: 10px 10px 20px 10px;
+}
+
+html, body {
+	background: url("../images/concrete_seamless.png") repeat;
+	background-color: lightgrey;
+}
