@@ -36,6 +36,8 @@
 }
 .sidebarimg {
 	margin-bottom: 10px;
+	width: 95%;
+	height: auto;
 }
 
 .nav>li {
@@ -70,8 +72,6 @@ footer {
 }
 body {
 	padding-bottom: 64px;
-	width: 95%;
-	margin: 0 auto;
 }
 .portfolio-header {
 	/*position: fixed;*/
@@ -97,3 +97,7 @@ html, body {
 	background: url("../images/concrete_seamless.png") repeat;
 	background-color: lightgrey;
 }
+/*#wrapper {
+	width: 95%;
+	margin: 0 auto;
+}*/
